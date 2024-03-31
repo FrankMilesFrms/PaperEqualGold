@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 - 2024 Frms, All Rights Reserved.
+  ~
+  ~ This file(themes.xml) is part of E纸千金.
+  ~
+  ~ E纸千金 is free software:
+  ~ you can redistribute it and/or modify it under the terms of the GNU General Public License as published
+  ~ by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+  ~
+  ~ E纸千金 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+  ~ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  ~ See the GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with E纸千金.
+  ~ If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.EPaper" parent="android:Theme.Material.Light.NoActionBar" />
+
+<!--    splash- 启动画面主题，包含温启动-->
+    <style name="Theme.EPaper.Splash" parent="Theme.EPaper">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+</resources>

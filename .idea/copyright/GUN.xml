@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (C) 2023 - &amp;#36;{today.year} Frms, All Rights Reserved.&#10;&#10;This file(&amp;#36;{file.fileName}) is part of &amp;#36;{project.name}.&#10;&#10;&amp;#36;{project.name} is free software: &#10;you can redistribute it and/or modify it under the terms of the GNU General Public License as published &#10;by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&#10;&#10;&amp;#36;{project.name} is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; &#10;without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&#10;See the GNU General Public License for more details.&#10;&#10;You should have received a copy of the GNU General Public License along with &amp;#36;{project.name}.&#10;If not, see &lt;https://www.gnu.org/licenses/&gt;." />
+    <option name="myName" value="GUN" />
+  </copyright>
+</component>

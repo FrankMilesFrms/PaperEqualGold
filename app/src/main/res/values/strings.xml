@@ -1,0 +1,59 @@
+<!--
+  ~ Copyright (C) 2023 - 2024 Frms, All Rights Reserved.
+  ~
+  ~ This file(strings.xml) is part of E纸千金.
+  ~
+  ~ E纸千金 is free software:
+  ~ you can redistribute it and/or modify it under the terms of the GNU General Public License as published
+  ~ by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+  ~
+  ~ E纸千金 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+  ~ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  ~ See the GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with E纸千金.
+  ~ If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="app_name">E纸千金</string>
+
+    <string name="phone_prefix">+86</string>
+
+    <string name="empty_text_field">输入点东西看看吧~</string>
+
+    <string name="empty_login_text_field">请输入手机号</string>
+
+    <string name="empty_verification_text_field">请输入验证码</string>
+    <string name="main_name">E纸千金</string>
+    <string name="start">Start</string>
+    <string name="login">登录</string>
+    <string name="get_verify_code">获取验证码</string>
+    <string name="tip_login_prefix">登录/注册 表示您同意</string>
+    <string name="privacy_agreement"> 《隐私协议》 </string>
+    <string name="terms_sevice"> 《服务条款》 </string>
+    <string name="verify_login">验证并登录</string>
+    <string name="shop_image">商品显示的图片</string>
+    <string name="act_act">活动</string>
+    <string name="message">消息</string>
+    <string name="act_buy">购买</string>
+    <string name="act_orders">订单</string>
+    <string name="act_user">用户</string>
+    <string name="product_profile">商品简介</string>
+    <string name="add_to_cart">加入购物车</string>
+    <string name="author">作者</string>
+    <string name="activities">活动</string>
+    <string name="phone">手机号</string>
+    <string name="seller">卖家</string>
+    <string name="sell">卖</string>
+    <string name="donate">捐赠</string>
+    <string name="back">返回</string>
+    <string name="privacy_policy_url">https://static.account.xiaomi.com/html/agreement/user/zh_CN.html</string>
+    <string name="terms_service_url">https://privacy.mi.com/miaccount/zh_CN/</string>
+    <string name="search">搜索</string>
+    <string name="close">清除所有内容</string>
+    <string name="user_vip">会员</string>
+    <string name="user_more_service">更多服务</string>
+    <string name="user_exchange">兑换</string>
+    <string name="user_background">背景</string>
+</resources>

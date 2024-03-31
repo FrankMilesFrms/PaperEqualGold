@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 - 2024 Frms, All Rights Reserved.
+  ~
+  ~ This file(themes.xml) is part of E纸千金.
+  ~
+  ~ E纸千金 is free software:
+  ~ you can redistribute it and/or modify it under the terms of the GNU General Public License as published
+  ~ by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+  ~
+  ~ E纸千金 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+  ~ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  ~ See the GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License along with E纸千金.
+  ~ If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+
+    <style name="Theme.EPaper.Splash" parent="Theme.EPaper">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- 启动画面背景颜色 -->
+        <item name="android:windowSplashScreenBackground">@color/teal_200</item>
+
+        <!-- 启动画面中间显示的图标，默认使用应用图标 -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/sub_icon</item>
+
+        <!-- 启动画面中间显示的图标的背景，如果图标背景不透明则无效 -->
+<!--        <item name="android:windowSplashScreenIconBackgroundColor">@color/splash_screen_icon_background</item>-->
+
+        <!-- 启动画面启动画面底部的图片。 -->
+<!--        <item name="android:windowSplashScreenBrandingImage">@mipmap/iv_splash_screen_brandingimage</item>-->
+
+        <!-- 启动画面在关闭之前显示的时长。最长时间为 1000 毫秒。 -->
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+
+
+    </style>
+</resources>
