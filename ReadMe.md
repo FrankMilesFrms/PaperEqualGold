@@ -4,9 +4,9 @@
 
 如有问题，请以邮件的方式进行联系：*FrankMiles@qq.com*
 
-![login.png](app%2FScreenShot%2Flogin.png)
+![login.png](app/ScreenShot/login.png)
 
-![user.png](app%2FScreenShot%2Fuser.png)
+![user.png](app/ScreenShot/user.png)
 
 **关于项目协议**
 
