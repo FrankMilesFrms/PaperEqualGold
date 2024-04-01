@@ -4,6 +4,10 @@
 
 如有问题，请以邮件的方式进行联系：*FrankMiles@qq.com*
 
+![login.png](app%2FScreenShot%2Flogin.png)
+
+![user.png](app%2FScreenShot%2Fuser.png)
+
 **关于项目协议**
 
 由于项目文件较多，开发时间较长，存在不同协议，这里统一申明，凡是与GNU协议冲突的，均视为遵循GNU协议。
